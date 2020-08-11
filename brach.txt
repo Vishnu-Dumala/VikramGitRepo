@@ -1,3 +1,5 @@
 Test branch file.
 
 File added to branch.
+
+File changed
